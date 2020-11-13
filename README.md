@@ -10,7 +10,7 @@ Target Platforms: Linux, BSD, Unix-like systems
 
 License: GPL V2
 
-Updated: 2020-10-30
+Updated: 2020-11-13
 
 
 ## Overview
@@ -122,6 +122,24 @@ Download installable binary packages for various Linux distributions here:
 
 
 ## Latest News
+
+- 2020-11-13
+
+  - _I hereby officially declare that I will no longer answer personal mails
+    from people who don't bother to read the documentation, or when I have the
+    slightest doubt that they did._
+
+    Seriously, people building QDirStat themselves and not reading the
+    instructions how to do that, just cluelessly doing random stuff and then
+    running into compile problems? And instead of at least at that point doing
+    the RTFM that they skipped because TL;DR just writing personal mails to me?
+    Not using the issue tracker, of course, wich would make their embarrassment
+    recorded in public?
+
+    I am sick and tired of babysitting milennials. Folks, if you are too lazy to
+    read (yes, this document is longer than a tweet), just stick with TikTok and
+    stop bothering those who really do stuff.
+
 
 - 2020-10-23
 
