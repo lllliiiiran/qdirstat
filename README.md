@@ -133,7 +133,7 @@ Download installable binary packages for various Linux distributions here:
     instructions how to do that, just cluelessly doing random stuff and then
     running into compile problems? And instead of at least at that point doing
     the RTFM that they skipped because TL;DR just writing personal mails to me?
-    Not using the issue tracker, of course, wich would make their embarrassment
+    Not using the issue tracker, of course, which would make their embarrassment
     recorded in public?
 
     I am sick and tired of babysitting milennials. Folks, if you are too lazy to
